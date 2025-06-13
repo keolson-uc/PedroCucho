@@ -7,5 +7,1302 @@
             "All images loaded in keolson-uc/PedroCucho project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0003/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0003"
+                ]
+            },
+            "height": 3949,
+            "width": 2811,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0003/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0003/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0003/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 88,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 176,
+                                                "height": 247
+                                            },
+                                            {
+                                                "width": 352,
+                                                "height": 494
+                                            },
+                                            {
+                                                "width": 703,
+                                                "height": 988
+                                            },
+                                            {
+                                                "width": 1406,
+                                                "height": 1975
+                                            },
+                                            {
+                                                "width": 2811,
+                                                "height": 3949
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2811,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0003",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3949,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0003/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0014/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0014"
+                ]
+            },
+            "height": 3920,
+            "width": 2806,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0014/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0014/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0014/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 88,
+                                                "height": 123
+                                            },
+                                            {
+                                                "width": 176,
+                                                "height": 245
+                                            },
+                                            {
+                                                "width": 351,
+                                                "height": 490
+                                            },
+                                            {
+                                                "width": 702,
+                                                "height": 980
+                                            },
+                                            {
+                                                "width": 1403,
+                                                "height": 1960
+                                            },
+                                            {
+                                                "width": 2806,
+                                                "height": 3920
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2806,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0014",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3920,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0014/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0015/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0015"
+                ]
+            },
+            "height": 3920,
+            "width": 2806,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0015/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0015/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0015/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 88,
+                                                "height": 123
+                                            },
+                                            {
+                                                "width": 176,
+                                                "height": 245
+                                            },
+                                            {
+                                                "width": 351,
+                                                "height": 490
+                                            },
+                                            {
+                                                "width": 702,
+                                                "height": 980
+                                            },
+                                            {
+                                                "width": 1403,
+                                                "height": 1960
+                                            },
+                                            {
+                                                "width": 2806,
+                                                "height": 3920
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2806,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0015",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3920,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0015/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0004/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0004"
+                ]
+            },
+            "height": 3871,
+            "width": 2816,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0004/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0004/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0004/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 88,
+                                                "height": 121
+                                            },
+                                            {
+                                                "width": 176,
+                                                "height": 242
+                                            },
+                                            {
+                                                "width": 352,
+                                                "height": 484
+                                            },
+                                            {
+                                                "width": 704,
+                                                "height": 968
+                                            },
+                                            {
+                                                "width": 1408,
+                                                "height": 1936
+                                            },
+                                            {
+                                                "width": 2816,
+                                                "height": 3871
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2816,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0004",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3871,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0004/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0005/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0005"
+                ]
+            },
+            "height": 3940,
+            "width": 2831,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0005/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0005/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0005/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 89,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 177,
+                                                "height": 247
+                                            },
+                                            {
+                                                "width": 354,
+                                                "height": 493
+                                            },
+                                            {
+                                                "width": 708,
+                                                "height": 985
+                                            },
+                                            {
+                                                "width": 1416,
+                                                "height": 1970
+                                            },
+                                            {
+                                                "width": 2831,
+                                                "height": 3940
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2831,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0005",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3940,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0005/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0009/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0009"
+                ]
+            },
+            "height": 3950,
+            "width": 2819,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0009/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0009/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0009/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 89,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 177,
+                                                "height": 247
+                                            },
+                                            {
+                                                "width": 353,
+                                                "height": 494
+                                            },
+                                            {
+                                                "width": 705,
+                                                "height": 988
+                                            },
+                                            {
+                                                "width": 1410,
+                                                "height": 1975
+                                            },
+                                            {
+                                                "width": 2819,
+                                                "height": 3950
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2819,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0009",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3950,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0009/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0002/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0002"
+                ]
+            },
+            "height": 3970,
+            "width": 2877,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0002/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0002/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0002/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 90,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 180,
+                                                "height": 249
+                                            },
+                                            {
+                                                "width": 360,
+                                                "height": 497
+                                            },
+                                            {
+                                                "width": 720,
+                                                "height": 993
+                                            },
+                                            {
+                                                "width": 1439,
+                                                "height": 1985
+                                            },
+                                            {
+                                                "width": 2877,
+                                                "height": 3970
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2877,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0002",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3970,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0002/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0011/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0011"
+                ]
+            },
+            "height": 3950,
+            "width": 2806,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0011/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0011/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0011/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 88,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 176,
+                                                "height": 247
+                                            },
+                                            {
+                                                "width": 351,
+                                                "height": 494
+                                            },
+                                            {
+                                                "width": 702,
+                                                "height": 988
+                                            },
+                                            {
+                                                "width": 1403,
+                                                "height": 1975
+                                            },
+                                            {
+                                                "width": 2806,
+                                                "height": 3950
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2806,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0011",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3950,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0011/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0010/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0010"
+                ]
+            },
+            "height": 3950,
+            "width": 2806,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0010/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0010/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0010/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 88,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 176,
+                                                "height": 247
+                                            },
+                                            {
+                                                "width": 351,
+                                                "height": 494
+                                            },
+                                            {
+                                                "width": 702,
+                                                "height": 988
+                                            },
+                                            {
+                                                "width": 1403,
+                                                "height": 1975
+                                            },
+                                            {
+                                                "width": 2806,
+                                                "height": 3950
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2806,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0010",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3950,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0010/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0008/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0008"
+                ]
+            },
+            "height": 3949,
+            "width": 2845,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0008/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0008/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0008/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 89,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 178,
+                                                "height": 247
+                                            },
+                                            {
+                                                "width": 356,
+                                                "height": 494
+                                            },
+                                            {
+                                                "width": 712,
+                                                "height": 988
+                                            },
+                                            {
+                                                "width": 1423,
+                                                "height": 1975
+                                            },
+                                            {
+                                                "width": 2845,
+                                                "height": 3949
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2845,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0008",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3949,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0008/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0012/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0012"
+                ]
+            },
+            "height": 3920,
+            "width": 2806,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0012/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0012/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0012/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 88,
+                                                "height": 123
+                                            },
+                                            {
+                                                "width": 176,
+                                                "height": 245
+                                            },
+                                            {
+                                                "width": 351,
+                                                "height": 490
+                                            },
+                                            {
+                                                "width": 702,
+                                                "height": 980
+                                            },
+                                            {
+                                                "width": 1403,
+                                                "height": 1960
+                                            },
+                                            {
+                                                "width": 2806,
+                                                "height": 3920
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2806,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0012",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3920,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0012/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0006/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0006"
+                ]
+            },
+            "height": 3837,
+            "width": 2810,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0006/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0006/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0006/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 88,
+                                                "height": 120
+                                            },
+                                            {
+                                                "width": 176,
+                                                "height": 240
+                                            },
+                                            {
+                                                "width": 352,
+                                                "height": 480
+                                            },
+                                            {
+                                                "width": 703,
+                                                "height": 960
+                                            },
+                                            {
+                                                "width": 1405,
+                                                "height": 1919
+                                            },
+                                            {
+                                                "width": 2810,
+                                                "height": 3837
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2810,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0006",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3837,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0006/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0016/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0016"
+                ]
+            },
+            "height": 3944,
+            "width": 2861,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0016/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0016/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0016/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 90,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 179,
+                                                "height": 247
+                                            },
+                                            {
+                                                "width": 358,
+                                                "height": 493
+                                            },
+                                            {
+                                                "width": 716,
+                                                "height": 986
+                                            },
+                                            {
+                                                "width": 1431,
+                                                "height": 1972
+                                            },
+                                            {
+                                                "width": 2861,
+                                                "height": 3944
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2861,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0016",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3944,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0016/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0001/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0001"
+                ]
+            },
+            "height": 3948,
+            "width": 2944,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0001/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0001/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0001/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 92,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 184,
+                                                "height": 247
+                                            },
+                                            {
+                                                "width": 368,
+                                                "height": 494
+                                            },
+                                            {
+                                                "width": 736,
+                                                "height": 987
+                                            },
+                                            {
+                                                "width": 1472,
+                                                "height": 1974
+                                            },
+                                            {
+                                                "width": 2944,
+                                                "height": 3948
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2944,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0001",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3948,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0001/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0013/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0013"
+                ]
+            },
+            "height": 3920,
+            "width": 2806,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0013/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0013/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0013/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 88,
+                                                "height": 123
+                                            },
+                                            {
+                                                "width": 176,
+                                                "height": 245
+                                            },
+                                            {
+                                                "width": 351,
+                                                "height": 490
+                                            },
+                                            {
+                                                "width": 702,
+                                                "height": 980
+                                            },
+                                            {
+                                                "width": 1403,
+                                                "height": 1960
+                                            },
+                                            {
+                                                "width": 2806,
+                                                "height": 3920
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2806,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0013",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3920,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0013/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0007/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pres2025-0015_0007"
+                ]
+            },
+            "height": 3970,
+            "width": 2855,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0007/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0007/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0007/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 90,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 179,
+                                                "height": 249
+                                            },
+                                            {
+                                                "width": 357,
+                                                "height": 497
+                                            },
+                                            {
+                                                "width": 714,
+                                                "height": 993
+                                            },
+                                            {
+                                                "width": 1428,
+                                                "height": 1985
+                                            },
+                                            {
+                                                "width": 2855,
+                                                "height": 3970
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2855,
+                                        "@id": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0007",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3970,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0007/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

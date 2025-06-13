@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 89,
+    "height" : 124
+  }, {
+    "width" : 178,
+    "height" : 247
+  }, {
+    "width" : 356,
+    "height" : 494
+  }, {
+    "width" : 712,
+    "height" : 988
+  }, {
+    "width" : 1423,
+    "height" : 1975
+  }, {
+    "width" : 2845,
+    "height" : 3949
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2845,
+  "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0008",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3949
+}
