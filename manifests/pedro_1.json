@@ -1,0 +1,446 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://keolson-uc.github.io/PedroCucho/manifests/pedro_1.json",
+  "@type" : "sc:Manifest",
+  "label" : "\nEntremés el alcalde Pedro Cucho.",
+  "metadata" : [ {
+    "label" : "Imprint",
+    "value" : "Barcelona : Por Matheo Barceló Impresor ..., 1779."
+  }, {
+    "label" : "Subject",
+    "value" : "Entremés."
+  } ],
+  "description" : [ {
+    "@value" : "16 pages : illustrations ; 16 cm (8vo)",
+    "@language" : "Spanish"
+  } ],
+  "attribution" : "Digitized by the University of Chicago Library for research purposes.",
+  "sequences" : [ {
+    "@id" : "http://b80e8f81-47c9-482d-af26-4b5cf76f54fc",
+    "@type" : "sc:Sequence",
+    "label" : "Normal Sequence",
+    "canvases" : [ {
+      "@id" : "http://132cddaa-514a-47e2-8a8e-3396b5795c02",
+      "@type" : "sc:Canvas",
+      "label" : "0001",
+      "height" : 3948,
+      "width" : 2944,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ef1428af-b6ff-46fa-8367-6d557814c44a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0001",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3948,
+          "width" : 2944
+        },
+        "on" : "http://132cddaa-514a-47e2-8a8e-3396b5795c02"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8b964552-60e1-40ed-afe2-b1faad02fba1",
+      "@type" : "sc:Canvas",
+      "label" : "0002",
+      "height" : 3970,
+      "width" : 2877,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0df28d59-365c-4b1d-955e-e357ae15b390",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0002/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0002",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3970,
+          "width" : 2877
+        },
+        "on" : "http://8b964552-60e1-40ed-afe2-b1faad02fba1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d28eda56-cc59-4444-af16-05e0bae88eaf",
+      "@type" : "sc:Canvas",
+      "label" : "0003",
+      "height" : 3949,
+      "width" : 2811,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://11dab29a-b364-45b5-a2a0-0877454c4459",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0003/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0003",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3949,
+          "width" : 2811
+        },
+        "on" : "http://d28eda56-cc59-4444-af16-05e0bae88eaf"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://956caa26-2568-43e0-806b-5ddee5102ba2",
+      "@type" : "sc:Canvas",
+      "label" : "0004",
+      "height" : 3871,
+      "width" : 2816,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5356cf07-bea8-42ee-8e66-32b430661f6d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0004/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0004",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3871,
+          "width" : 2816
+        },
+        "on" : "http://956caa26-2568-43e0-806b-5ddee5102ba2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6cf47b9a-6467-4907-b89b-1871fa5a40b5",
+      "@type" : "sc:Canvas",
+      "label" : "0005",
+      "height" : 3940,
+      "width" : 2831,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://55f5fd77-6df8-49a1-b9e5-41d702a9687d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0005/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0005",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3940,
+          "width" : 2831
+        },
+        "on" : "http://6cf47b9a-6467-4907-b89b-1871fa5a40b5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0c0d60f6-9a21-40fa-a11a-af13c3fa9884",
+      "@type" : "sc:Canvas",
+      "label" : "0006",
+      "height" : 3837,
+      "width" : 2810,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8f4fd9ae-a50a-4c11-a9ae-ffddd9b9558e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0006/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0006",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3837,
+          "width" : 2810
+        },
+        "on" : "http://0c0d60f6-9a21-40fa-a11a-af13c3fa9884"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4434587e-ac2d-4f4d-bddd-ae6abb25bdbd",
+      "@type" : "sc:Canvas",
+      "label" : "0007",
+      "height" : 3970,
+      "width" : 2855,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bb4e79cc-5c71-4b04-9f6d-9cc98f15acf5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0007/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0007",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3970,
+          "width" : 2855
+        },
+        "on" : "http://4434587e-ac2d-4f4d-bddd-ae6abb25bdbd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c032ba9c-38e7-4028-85e0-41587b966e3d",
+      "@type" : "sc:Canvas",
+      "label" : "0008",
+      "height" : 3949,
+      "width" : 2845,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c488d804-aeb7-43c5-a7ff-509b4973938a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0008/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0008",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3949,
+          "width" : 2845
+        },
+        "on" : "http://c032ba9c-38e7-4028-85e0-41587b966e3d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bec109b5-2adc-4fa2-b0d3-427b1821597c",
+      "@type" : "sc:Canvas",
+      "label" : "0009",
+      "height" : 3950,
+      "width" : 2819,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://95540546-1821-489c-b6ff-16a99af1eb4b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0009/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0009",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3950,
+          "width" : 2819
+        },
+        "on" : "http://bec109b5-2adc-4fa2-b0d3-427b1821597c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://47200445-4aae-4077-af62-479b54bf7cdf",
+      "@type" : "sc:Canvas",
+      "label" : "0010",
+      "height" : 3950,
+      "width" : 2806,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://455e36c2-3abb-4d74-a2e3-c72c2e270344",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0010/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0010",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3950,
+          "width" : 2806
+        },
+        "on" : "http://47200445-4aae-4077-af62-479b54bf7cdf"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://998300cf-da8b-45de-a914-54c0807a9a5e",
+      "@type" : "sc:Canvas",
+      "label" : "0011",
+      "height" : 3950,
+      "width" : 2806,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5588068f-8bf0-4dde-8a93-aa64fb0bf5da",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0011/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0011",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3950,
+          "width" : 2806
+        },
+        "on" : "http://998300cf-da8b-45de-a914-54c0807a9a5e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3464ab7f-2a65-440e-81f0-aeeeb2f18f70",
+      "@type" : "sc:Canvas",
+      "label" : "0012",
+      "height" : 3920,
+      "width" : 2806,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8f214a05-c12b-4a36-878f-007152da9c60",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0012/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0012",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3920,
+          "width" : 2806
+        },
+        "on" : "http://3464ab7f-2a65-440e-81f0-aeeeb2f18f70"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7a9d01d7-45cf-41d7-a447-e5a8696a9c93",
+      "@type" : "sc:Canvas",
+      "label" : "0013",
+      "height" : 3920,
+      "width" : 2806,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4f2ff9f7-ee5c-4ad3-9d51-76a26ec1f62e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0013/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0013",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3920,
+          "width" : 2806
+        },
+        "on" : "http://7a9d01d7-45cf-41d7-a447-e5a8696a9c93"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1c5a4b94-0465-49bd-81b5-3f80ab203dd4",
+      "@type" : "sc:Canvas",
+      "label" : "0014",
+      "height" : 3920,
+      "width" : 2806,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e03174ca-d7a8-4034-aac5-cb42152dcca2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0014/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0014",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3920,
+          "width" : 2806
+        },
+        "on" : "http://1c5a4b94-0465-49bd-81b5-3f80ab203dd4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://fad2900d-eabe-454f-b2e0-4730fe1c458a",
+      "@type" : "sc:Canvas",
+      "label" : "0015",
+      "height" : 3920,
+      "width" : 2806,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f22a5259-7d02-4078-87a6-a20847581cb8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0015/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0015",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3920,
+          "width" : 2806
+        },
+        "on" : "http://fad2900d-eabe-454f-b2e0-4730fe1c458a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b204237e-ac4a-4783-8c36-914ae20e2a74",
+      "@type" : "sc:Canvas",
+      "label" : "0016",
+      "height" : 3944,
+      "width" : 2861,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7206eea1-3773-486b-b181-855c856dc881",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0016/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://keolson-uc.github.io/PedroCucho/images/pres2025-0015_0016",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3944,
+          "width" : 2861
+        },
+        "on" : "http://b204237e-ac4a-4783-8c36-914ae20e2a74"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "related" : {
+    "@id" : "http://pi.lib.uchicago.edu/1001/cat/bib/7538811",
+    "label" : "Print Record"
+  },
+  "viewingDirection" : "left-to-right"
+}
