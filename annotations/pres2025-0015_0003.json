@@ -1,0 +1,1811 @@
+{
+  "alto" : {
+    "@xmlns:xlink" : "http://www.w3.org/1999/xlink",
+    "@xmlns:xsi" : "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:schemaLocation" : "http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/v2/alto-2-0.xsd",
+    "@xmlns" : "http://www.loc.gov/standards/alto/ns-v2#",
+    "Description" : {
+      "MeasurementUnit" : "pixel",
+      "sourceImageInformation" : {
+        "fileName" : "pres2025-0015_0003.tif"
+      },
+      "OCRProcessing" : {
+        "@ID" : "IdOcr",
+        "ocrProcessingStep" : {
+          "processingStepSettings" : "Image Resolution:600",
+          "processingSoftware" : {
+            "softwareCreator" : "I2S",
+            "softwareName" : "Limb Processing",
+            "softwareVersion" : "4.7.2.8088",
+            "applicationDescription" : "Abbyy12 OCR Engine"
+          }
+        }
+      }
+    },
+    "Styles" : {
+      "TextStyle" : {
+        "@ID" : "font0",
+        "@FONTSIZE" : "14",
+        "@FONTFAMILY" : "Times New Roman"
+      }
+    },
+    "Layout" : {
+      "Page" : {
+        "@ID" : "Page2",
+        "@PHYSICAL_IMG_NR" : "2",
+        "@HEIGHT" : "3949",
+        "@WIDTH" : "2811",
+        "@ACCURACY" : "0.592250168",
+        "@QUALITY_DETAIL" : "126 words, 568 chars, 318 with recognition greater than 50% (55.99%)",
+        "TopMargin" : {
+          "@HEIGHT" : "276",
+          "@WIDTH" : "2811",
+          "@HPOS" : "0",
+          "@VPOS" : "0"
+        },
+        "LeftMargin" : {
+          "@HEIGHT" : "3206",
+          "@WIDTH" : "296",
+          "@HPOS" : "0",
+          "@VPOS" : "276"
+        },
+        "RightMargin" : {
+          "@HEIGHT" : "3206",
+          "@WIDTH" : "661",
+          "@HPOS" : "2150",
+          "@VPOS" : "276"
+        },
+        "BottomMargin" : {
+          "@HEIGHT" : "467",
+          "@WIDTH" : "2811",
+          "@HPOS" : "0",
+          "@VPOS" : "3482"
+        },
+        "PrintSpace" : {
+          "@HEIGHT" : "3206",
+          "@WIDTH" : "1854",
+          "@HPOS" : "296",
+          "@VPOS" : "276",
+          "TextBlock" : {
+            "@ID" : "Page2_Block1",
+            "@STYLEREFS" : "font0",
+            "@HEIGHT" : "3206",
+            "@WIDTH" : "1854",
+            "@HPOS" : "296",
+            "@VPOS" : "276",
+            "@IDNEXT" : "Page2_Block1",
+            "TextLine" : [ {
+              "@ID" : "Page2_TL00001",
+              "@HEIGHT" : "124",
+              "@WIDTH" : "1204",
+              "@HPOS" : "455",
+              "@VPOS" : "289",
+              "String" : [ {
+                "@ID" : "Page2_S00001",
+                "@HEIGHT" : "102",
+                "@WIDTH" : "292",
+                "@HPOS" : "455",
+                "@VPOS" : "291",
+                "@CONTENT" : "tienen",
+                "@WC" : "0.495",
+                "@CC" : "671616"
+              }, {
+                "@ID" : "Page2_S00002",
+                "@HEIGHT" : "96",
+                "@WIDTH" : "222",
+                "@HPOS" : "811",
+                "@VPOS" : "295",
+                "@CONTENT" : "ellos",
+                "@WC" : "0.71",
+                "@CC" : "00275"
+              }, {
+                "@ID" : "Page2_S00003",
+                "@HEIGHT" : "124",
+                "@WIDTH" : "548",
+                "@HPOS" : "1111",
+                "@VPOS" : "289",
+                "@CONTENT" : "Infanzones,",
+                "@WC" : "0.475454539",
+                "@CC" : "66477604174"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "62",
+                "@HPOS" : "748",
+                "@VPOS" : "329"
+              }, {
+                "@WIDTH" : "76",
+                "@HPOS" : "1034",
+                "@VPOS" : "297"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00002",
+              "@HEIGHT" : "138",
+              "@WIDTH" : "1384",
+              "@HPOS" : "453",
+              "@VPOS" : "429",
+              "String" : [ {
+                "@ID" : "Page2_S00004",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "172",
+                "@HPOS" : "453",
+                "@VPOS" : "473",
+                "@CONTENT" : "que",
+                "@WC" : "0.61",
+                "@CC" : "740"
+              }, {
+                "@ID" : "Page2_S00005",
+                "@HEIGHT" : "100",
+                "@WIDTH" : "46",
+                "@HPOS" : "667",
+                "@VPOS" : "429",
+                "@CONTENT" : "á",
+                "@WC" : "0.25",
+                "@CC" : "7"
+              }, {
+                "@ID" : "Page2_S00006",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "226",
+                "@HPOS" : "741",
+                "@VPOS" : "439",
+                "@CONTENT" : "colla",
+                "@WC" : "0.584",
+                "@CC" : "150410"
+              }, {
+                "@ID" : "Page2_S00007",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "108",
+                "@HPOS" : "1045",
+                "@VPOS" : "433",
+                "@CONTENT" : "de",
+                "@WC" : "0.655",
+                "@CC" : "60"
+              }, {
+                "@ID" : "Page2_S00008",
+                "@HEIGHT" : "96",
+                "@WIDTH" : "132",
+                "@HPOS" : "1209",
+                "@VPOS" : "435",
+                "@CONTENT" : "fus",
+                "@WC" : "0.346666664",
+                "@CC" : "676"
+              }, {
+                "@ID" : "Page2_S00009",
+                "@HEIGHT" : "98",
+                "@WIDTH" : "428",
+                "@HPOS" : "1409",
+                "@VPOS" : "433",
+                "@CONTENT" : "doblones",
+                "@WC" : "0.5525",
+                "@CC" : "54703437"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "40",
+                "@HPOS" : "626",
+                "@VPOS" : "429"
+              }, {
+                "@WIDTH" : "26",
+                "@HPOS" : "714",
+                "@VPOS" : "429"
+              }, {
+                "@WIDTH" : "76",
+                "@HPOS" : "968",
+                "@VPOS" : "433"
+              }, {
+                "@WIDTH" : "54",
+                "@HPOS" : "1154",
+                "@VPOS" : "435"
+              }, {
+                "@WIDTH" : "66",
+                "@HPOS" : "1342",
+                "@VPOS" : "433"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00003",
+              "@HEIGHT" : "130",
+              "@WIDTH" : "1260",
+              "@HPOS" : "455",
+              "@VPOS" : "575",
+              "String" : [ {
+                "@ID" : "Page2_S00010",
+                "@HEIGHT" : "126",
+                "@WIDTH" : "360",
+                "@HPOS" : "455",
+                "@VPOS" : "579",
+                "@CONTENT" : "quieren",
+                "@WC" : "0.702857137",
+                "@CC" : "0020674"
+              }, {
+                "@ID" : "Page2_S00011",
+                "@HEIGHT" : "88",
+                "@WIDTH" : "406",
+                "@HPOS" : "885",
+                "@VPOS" : "579",
+                "@CONTENT" : "hacernos",
+                "@WC" : "0.46875",
+                "@CC" : "58057545"
+              }, {
+                "@ID" : "Page2_S00012",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "344",
+                "@HPOS" : "1371",
+                "@VPOS" : "575",
+                "@CONTENT" : "bafura?",
+                "@WC" : "0.402857155",
+                "@CC" : "59407104"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "68",
+                "@HPOS" : "816",
+                "@VPOS" : "579"
+              }, {
+                "@WIDTH" : "78",
+                "@HPOS" : "1292",
+                "@VPOS" : "575"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00004",
+              "@HEIGHT" : "130",
+              "@WIDTH" : "1436",
+              "@HPOS" : "451",
+              "@VPOS" : "713",
+              "String" : [ {
+                "@ID" : "Page2_S00013",
+                "@HEIGHT" : "84",
+                "@WIDTH" : "134",
+                "@HPOS" : "451",
+                "@VPOS" : "725",
+                "@CONTENT" : "Yo",
+                "@WC" : "0.31",
+                "@CC" : "67"
+              }, {
+                "@ID" : "Page2_S00014",
+                "@HEIGHT" : "90",
+                "@WIDTH" : "104",
+                "@HPOS" : "665",
+                "@VPOS" : "719",
+                "@CONTENT" : "he",
+                "@WC" : "0.725",
+                "@CC" : "50"
+              }, {
+                "@ID" : "Page2_S00015",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "108",
+                "@HPOS" : "853",
+                "@VPOS" : "713",
+                "@CONTENT" : "de",
+                "@WC" : "0.965",
+                "@CC" : "00"
+              }, {
+                "@ID" : "Page2_S00016",
+                "@HEIGHT" : "56",
+                "@WIDTH" : "152",
+                "@HPOS" : "1027",
+                "@VPOS" : "751",
+                "@CONTENT" : "ver",
+                "@WC" : "0.66",
+                "@CC" : "036"
+              }, {
+                "@ID" : "Page2_S00017",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "166",
+                "@HPOS" : "1253",
+                "@VPOS" : "749",
+                "@CONTENT" : "que",
+                "@WC" : "0.91",
+                "@CC" : "020"
+              }, {
+                "@ID" : "Page2_S00018",
+                "@HEIGHT" : "90",
+                "@WIDTH" : "398",
+                "@HPOS" : "1489",
+                "@VPOS" : "717",
+                "@CONTENT" : "catadura",
+                "@WC" : "0.2225",
+                "@CC" : "510699776"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "78",
+                "@HPOS" : "586",
+                "@VPOS" : "719"
+              }, {
+                "@WIDTH" : "82",
+                "@HPOS" : "770",
+                "@VPOS" : "713"
+              }, {
+                "@WIDTH" : "64",
+                "@HPOS" : "962",
+                "@VPOS" : "751"
+              }, {
+                "@WIDTH" : "72",
+                "@HPOS" : "1180",
+                "@VPOS" : "751"
+              }, {
+                "@WIDTH" : "68",
+                "@HPOS" : "1420",
+                "@VPOS" : "749"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00005",
+              "@HEIGHT" : "130",
+              "@WIDTH" : "1310",
+              "@HPOS" : "451",
+              "@VPOS" : "853",
+              "String" : [ {
+                "@ID" : "Page2_S00019",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "286",
+                "@HPOS" : "451",
+                "@VPOS" : "857",
+                "@CONTENT" : "tienen",
+                "@WC" : "0.798333347",
+                "@CC" : "600410"
+              }, {
+                "@ID" : "Page2_S00020",
+                "@HEIGHT" : "124",
+                "@WIDTH" : "388",
+                "@HPOS" : "807",
+                "@VPOS" : "859",
+                "@CONTENT" : "aquellos",
+                "@WC" : "0.63375",
+                "@CC" : "102601161"
+              }, {
+                "@ID" : "Page2_S00021",
+                "@HEIGHT" : "130",
+                "@WIDTH" : "496",
+                "@HPOS" : "1265",
+                "@VPOS" : "853",
+                "@CONTENT" : "defpachos,",
+                "@WC" : "0.593",
+                "@CC" : "0700855741"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "68",
+                "@HPOS" : "738",
+                "@VPOS" : "893"
+              }, {
+                "@WIDTH" : "68",
+                "@HPOS" : "1196",
+                "@VPOS" : "853"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00006",
+              "@HEIGHT" : "136",
+              "@WIDTH" : "1388",
+              "@HPOS" : "451",
+              "@VPOS" : "991",
+              "String" : [ {
+                "@ID" : "Page2_S00022",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "60",
+                "@HPOS" : "451",
+                "@VPOS" : "1033",
+                "@CONTENT" : "y",
+                "@WC" : "1",
+                "@CC" : "0"
+              }, {
+                "@ID" : "Page2_S00023",
+                "@HEIGHT" : "98",
+                "@WIDTH" : "48",
+                "@HPOS" : "583",
+                "@VPOS" : "991",
+                "@CONTENT" : "á",
+                "@WC" : "0.54",
+                "@CC" : "4"
+              }, {
+                "@ID" : "Page2_S00024",
+                "@HEIGHT" : "90",
+                "@WIDTH" : "164",
+                "@HPOS" : "697",
+                "@VPOS" : "1001",
+                "@CONTENT" : "elle",
+                "@WC" : "0.88",
+                "@CC" : "0040"
+              }, {
+                "@ID" : "Page2_S00025",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "200",
+                "@HPOS" : "939",
+                "@VPOS" : "997",
+                "@CONTENT" : "hato",
+                "@WC" : "0.5025",
+                "@CC" : "11043"
+              }, {
+                "@ID" : "Page2_S00026",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "110",
+                "@HPOS" : "1181",
+                "@VPOS" : "993",
+                "@CONTENT" : "de",
+                "@WC" : "0.745",
+                "@CC" : "05"
+              }, {
+                "@ID" : "Page2_S00027",
+                "@HEIGHT" : "90",
+                "@WIDTH" : "478",
+                "@HPOS" : "1361",
+                "@VPOS" : "997",
+                "@CONTENT" : "borrachos",
+                "@WC" : "0.5",
+                "@CC" : "546390366"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "70",
+                "@HPOS" : "512",
+                "@VPOS" : "991"
+              }, {
+                "@WIDTH" : "64",
+                "@HPOS" : "632",
+                "@VPOS" : "991"
+              }, {
+                "@WIDTH" : "76",
+                "@HPOS" : "862",
+                "@VPOS" : "997"
+              }, {
+                "@WIDTH" : "40",
+                "@HPOS" : "1140",
+                "@VPOS" : "993"
+              }, {
+                "@WIDTH" : "68",
+                "@HPOS" : "1292",
+                "@VPOS" : "997"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00007",
+              "@HEIGHT" : "130",
+              "@WIDTH" : "1290",
+              "@HPOS" : "453",
+              "@VPOS" : "1131",
+              "String" : [ {
+                "@ID" : "Page2_S00028",
+                "@HEIGHT" : "90",
+                "@WIDTH" : "124",
+                "@HPOS" : "453",
+                "@VPOS" : "1139",
+                "@CONTENT" : "les",
+                "@WC" : "0.476666659",
+                "@CC" : "644"
+              }, {
+                "@ID" : "Page2_S00029",
+                "@HEIGHT" : "90",
+                "@WIDTH" : "106",
+                "@HPOS" : "645",
+                "@VPOS" : "1139",
+                "@CONTENT" : "he",
+                "@WC" : "0.66",
+                "@CC" : "60"
+              }, {
+                "@ID" : "Page2_S00030",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "108",
+                "@HPOS" : "815",
+                "@VPOS" : "1135",
+                "@CONTENT" : "de",
+                "@WC" : "0.85",
+                "@CC" : "03"
+              }, {
+                "@ID" : "Page2_S00031",
+                "@HEIGHT" : "116",
+                "@WIDTH" : "168",
+                "@HPOS" : "983",
+                "@VPOS" : "1145",
+                "@CONTENT" : "ajar",
+                "@WC" : "0.1625",
+                "@CC" : "107106"
+              }, {
+                "@ID" : "Page2_S00032",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "88",
+                "@HPOS" : "1217",
+                "@VPOS" : "1137",
+                "@CONTENT" : "fu",
+                "@WC" : "0.355",
+                "@CC" : "66"
+              }, {
+                "@ID" : "Page2_S00033",
+                "@HEIGHT" : "98",
+                "@WIDTH" : "368",
+                "@HPOS" : "1375",
+                "@VPOS" : "1131",
+                "@CONTENT" : "tieífura:",
+                "@WC" : "0.525555551",
+                "@CC" : "420506697"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "66",
+                "@HPOS" : "578",
+                "@VPOS" : "1139"
+              }, {
+                "@WIDTH" : "62",
+                "@HPOS" : "752",
+                "@VPOS" : "1135"
+              }, {
+                "@WIDTH" : "58",
+                "@HPOS" : "924",
+                "@VPOS" : "1173"
+              }, {
+                "@WIDTH" : "64",
+                "@HPOS" : "1152",
+                "@VPOS" : "1137"
+              }, {
+                "@WIDTH" : "68",
+                "@HPOS" : "1306",
+                "@VPOS" : "1167"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00008",
+              "@HEIGHT" : "132",
+              "@WIDTH" : "1094",
+              "@HPOS" : "449",
+              "@VPOS" : "1271",
+              "String" : [ {
+                "@ID" : "Page2_S00034",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "342",
+                "@HPOS" : "449",
+                "@VPOS" : "1277",
+                "@CONTENT" : "leedme",
+                "@WC" : "0.8333333",
+                "@CC" : "400030"
+              }, {
+                "@ID" : "Page2_S00035",
+                "@HEIGHT" : "132",
+                "@WIDTH" : "332",
+                "@HPOS" : "851",
+                "@VPOS" : "1271",
+                "@CONTENT" : "aqueífe",
+                "@WC" : "0.6242857",
+                "@CC" : "101000600"
+              }, {
+                "@ID" : "Page2_S00036",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "290",
+                "@HPOS" : "1253",
+                "@VPOS" : "1277",
+                "@CONTENT" : "cartel.",
+                "@WC" : "0.59",
+                "@CC" : "01061063"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "58",
+                "@HPOS" : "792",
+                "@VPOS" : "1313"
+              }, {
+                "@WIDTH" : "68",
+                "@HPOS" : "1184",
+                "@VPOS" : "1311"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00009",
+              "@HEIGHT" : "122",
+              "@WIDTH" : "812",
+              "@HPOS" : "801",
+              "@VPOS" : "1417",
+              "String" : [ {
+                "@ID" : "Page2_S00037",
+                "@HEIGHT" : "74",
+                "@WIDTH" : "150",
+                "@HPOS" : "801",
+                "@VPOS" : "1433",
+                "@CONTENT" : "Lee",
+                "@WC" : "0.49",
+                "@CC" : "465"
+              }, {
+                "@ID" : "Page2_S00038",
+                "@HEIGHT" : "88",
+                "@WIDTH" : "76",
+                "@HPOS" : "1021",
+                "@VPOS" : "1417",
+                "@CONTENT" : "el",
+                "@WC" : "0.435",
+                "@CC" : "82"
+              }, {
+                "@ID" : "Page2_S00039",
+                "@HEIGHT" : "118",
+                "@WIDTH" : "462",
+                "@HPOS" : "1151",
+                "@VPOS" : "1421",
+                "@CONTENT" : "Efcri^ano.",
+                "@WC" : "0.61",
+                "@CC" : "4630297652"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "68",
+                "@HPOS" : "952",
+                "@VPOS" : "1453"
+              }, {
+                "@WIDTH" : "52",
+                "@HPOS" : "1098",
+                "@VPOS" : "1417"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00010",
+              "@HEIGHT" : "122",
+              "@WIDTH" : "1794",
+              "@HPOS" : "311",
+              "@VPOS" : "1553",
+              "String" : [ {
+                "@ID" : "Page2_S00040",
+                "@HEIGHT" : "96",
+                "@WIDTH" : "320",
+                "@HPOS" : "311",
+                "@VPOS" : "1553",
+                "@CONTENT" : "Manda",
+                "@WC" : "0.414",
+                "@CC" : "5104010"
+              }, {
+                "@ID" : "Page2_S00041",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "80",
+                "@HPOS" : "671",
+                "@VPOS" : "1555",
+                "@CONTENT" : "el",
+                "@WC" : "0.565",
+                "@CC" : "26"
+              }, {
+                "@ID" : "Page2_S00042",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "246",
+                "@HPOS" : "779",
+                "@VPOS" : "1557",
+                "@CONTENT" : "feñor",
+                "@WC" : "0.61",
+                "@CC" : "00757"
+              }, {
+                "@ID" : "Page2_S00043",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "346",
+                "@HPOS" : "1067",
+                "@VPOS" : "1555",
+                "@CONTENT" : "Alcalde",
+                "@WC" : "0.5271429",
+                "@CC" : "90045103"
+              }, {
+                "@ID" : "Page2_S00044",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "286",
+                "@HPOS" : "1439",
+                "@VPOS" : "1555",
+                "@CONTENT" : "Pedro",
+                "@WC" : "0.418",
+                "@CC" : "401066"
+              }, {
+                "@ID" : "Page2_S00045",
+                "@HEIGHT" : "118",
+                "@WIDTH" : "346",
+                "@HPOS" : "1759",
+                "@VPOS" : "1557",
+                "@CONTENT" : "Cucho,",
+                "@WC" : "0.446666658",
+                "@CC" : "077674"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "38",
+                "@HPOS" : "632",
+                "@VPOS" : "1591"
+              }, {
+                "@WIDTH" : "26",
+                "@HPOS" : "752",
+                "@VPOS" : "1555"
+              }, {
+                "@WIDTH" : "40",
+                "@HPOS" : "1026",
+                "@VPOS" : "1567"
+              }, {
+                "@WIDTH" : "24",
+                "@HPOS" : "1414",
+                "@VPOS" : "1561"
+              }, {
+                "@WIDTH" : "32",
+                "@HPOS" : "1726",
+                "@VPOS" : "1561"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00011",
+              "@HEIGHT" : "126",
+              "@WIDTH" : "1662",
+              "@HPOS" : "449",
+              "@VPOS" : "1695",
+              "String" : [ {
+                "@ID" : "Page2_S00046",
+                "@HEIGHT" : "90",
+                "@WIDTH" : "172",
+                "@HPOS" : "449",
+                "@VPOS" : "1731",
+                "@CONTENT" : "que",
+                "@WC" : "0.933333337",
+                "@CC" : "002"
+              }, {
+                "@ID" : "Page2_S00047",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "74",
+                "@HPOS" : "661",
+                "@VPOS" : "1697",
+                "@CONTENT" : "el",
+                "@WC" : "0.64",
+                "@CC" : "07"
+              }, {
+                "@ID" : "Page2_S00048",
+                "@HEIGHT" : "88",
+                "@WIDTH" : "170",
+                "@HPOS" : "755",
+                "@VPOS" : "1733",
+                "@CONTENT" : "que",
+                "@WC" : "0.77",
+                "@CC" : "600"
+              }, {
+                "@ID" : "Page2_S00049",
+                "@HEIGHT" : "54",
+                "@WIDTH" : "104",
+                "@HPOS" : "965",
+                "@VPOS" : "1733",
+                "@CONTENT" : "en",
+                "@WC" : "0.775",
+                "@CC" : "04"
+              }, {
+                "@ID" : "Page2_S00050",
+                "@HEIGHT" : "90",
+                "@WIDTH" : "88",
+                "@HPOS" : "1103",
+                "@VPOS" : "1697",
+                "@CONTENT" : "fu",
+                "@WC" : "0.4",
+                "@CC" : "47"
+              }, {
+                "@ID" : "Page2_S00051",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "366",
+                "@HPOS" : "1219",
+                "@VPOS" : "1695",
+                "@CONTENT" : "nobleza",
+                "@WC" : "0.52",
+                "@CC" : "56500610"
+              }, {
+                "@ID" : "Page2_S00052",
+                "@HEIGHT" : "86",
+                "@WIDTH" : "130",
+                "@HPOS" : "1615",
+                "@VPOS" : "1701",
+                "@CONTENT" : "lea",
+                "@WC" : "0.99333334",
+                "@CC" : "000"
+              }, {
+                "@ID" : "Page2_S00053",
+                "@HEIGHT" : "118",
+                "@WIDTH" : "326",
+                "@HPOS" : "1785",
+                "@VPOS" : "1695",
+                "@CONTENT" : "ducho,",
+                "@WC" : "0.7033333",
+                "@CC" : "000574"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "38",
+                "@HPOS" : "622",
+                "@VPOS" : "1731"
+              }, {
+                "@WIDTH" : "18",
+                "@HPOS" : "736",
+                "@VPOS" : "1697"
+              }, {
+                "@WIDTH" : "38",
+                "@HPOS" : "926",
+                "@VPOS" : "1733"
+              }, {
+                "@WIDTH" : "32",
+                "@HPOS" : "1070",
+                "@VPOS" : "1697"
+              }, {
+                "@WIDTH" : "26",
+                "@HPOS" : "1192",
+                "@VPOS" : "1733"
+              }, {
+                "@WIDTH" : "28",
+                "@HPOS" : "1586",
+                "@VPOS" : "1701"
+              }, {
+                "@WIDTH" : "38",
+                "@HPOS" : "1746",
+                "@VPOS" : "1695"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00012",
+              "@HEIGHT" : "128",
+              "@WIDTH" : "1664",
+              "@HPOS" : "447",
+              "@VPOS" : "1831",
+              "String" : [ {
+                "@ID" : "Page2_S00054",
+                "@HEIGHT" : "96",
+                "@WIDTH" : "114",
+                "@HPOS" : "447",
+                "@VPOS" : "1833",
+                "@CONTENT" : "fin",
+                "@WC" : "0.863333344",
+                "@CC" : "004"
+              }, {
+                "@ID" : "Page2_S00055",
+                "@HEIGHT" : "90",
+                "@WIDTH" : "166",
+                "@HPOS" : "595",
+                "@VPOS" : "1869",
+                "@CONTENT" : "que",
+                "@WC" : "0.9266667",
+                "@CC" : "002"
+              }, {
+                "@ID" : "Page2_S00056",
+                "@HEIGHT" : "88",
+                "@WIDTH" : "96",
+                "@HPOS" : "781",
+                "@VPOS" : "1835",
+                "@CONTENT" : "lo",
+                "@WC" : "0.455",
+                "@CC" : "46"
+              }, {
+                "@ID" : "Page2_S00057",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "324",
+                "@HPOS" : "909",
+                "@VPOS" : "1865",
+                "@CONTENT" : "aparte,",
+                "@WC" : "0.5871429",
+                "@CC" : "06106500"
+              }, {
+                "@ID" : "Page2_S00058",
+                "@HEIGHT" : "80",
+                "@WIDTH" : "152",
+                "@HPOS" : "1251",
+                "@VPOS" : "1869",
+                "@CONTENT" : "no,",
+                "@WC" : "0.733333349",
+                "@CC" : "520"
+              }, {
+                "@ID" : "Page2_S00059",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "110",
+                "@HPOS" : "1439",
+                "@VPOS" : "1831",
+                "@CONTENT" : "de",
+                "@WC" : "0.91",
+                "@CC" : "01"
+              }, {
+                "@ID" : "Page2_S00060",
+                "@HEIGHT" : "90",
+                "@WIDTH" : "82",
+                "@HPOS" : "1581",
+                "@VPOS" : "1833",
+                "@CONTENT" : "la",
+                "@WC" : "0.135",
+                "@CC" : "710"
+              }, {
+                "@ID" : "Page2_S00061",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "428",
+                "@HPOS" : "1683",
+                "@VPOS" : "1833",
+                "@CONTENT" : "memoria",
+                "@WC" : "0.6471428",
+                "@CC" : "0034637"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "32",
+                "@HPOS" : "562",
+                "@VPOS" : "1869"
+              }, {
+                "@WIDTH" : "18",
+                "@HPOS" : "762",
+                "@VPOS" : "1835"
+              }, {
+                "@WIDTH" : "30",
+                "@HPOS" : "878",
+                "@VPOS" : "1869"
+              }, {
+                "@WIDTH" : "16",
+                "@HPOS" : "1234",
+                "@VPOS" : "1869"
+              }, {
+                "@WIDTH" : "34",
+                "@HPOS" : "1404",
+                "@VPOS" : "1831"
+              }, {
+                "@WIDTH" : "30",
+                "@HPOS" : "1550",
+                "@VPOS" : "1833"
+              }, {
+                "@WIDTH" : "18",
+                "@HPOS" : "1664",
+                "@VPOS" : "1867"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00013",
+              "@HEIGHT" : "132",
+              "@WIDTH" : "1666",
+              "@HPOS" : "443",
+              "@VPOS" : "1969",
+              "String" : [ {
+                "@ID" : "Page2_S00062",
+                "@HEIGHT" : "126",
+                "@WIDTH" : "384",
+                "@HPOS" : "443",
+                "@VPOS" : "1975",
+                "@CONTENT" : "prefente",
+                "@WC" : "0.59625",
+                "@CC" : "105300273"
+              }, {
+                "@ID" : "Page2_S00063",
+                "@HEIGHT" : "52",
+                "@WIDTH" : "46",
+                "@HPOS" : "871",
+                "@VPOS" : "2011",
+                "@CONTENT" : "a",
+                "@WC" : "0.25",
+                "@CC" : "7"
+              }, {
+                "@ID" : "Page2_S00064",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "86",
+                "@HPOS" : "945",
+                "@VPOS" : "1975",
+                "@CONTENT" : "fu",
+                "@WC" : "0.825",
+                "@CC" : "03"
+              }, {
+                "@ID" : "Page2_S00065",
+                "@HEIGHT" : "96",
+                "@WIDTH" : "344",
+                "@HPOS" : "1065",
+                "@VPOS" : "1969",
+                "@CONTENT" : "merced",
+                "@WC" : "0.9",
+                "@CC" : "000600"
+              }, {
+                "@ID" : "Page2_S00066",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "80",
+                "@HPOS" : "1451",
+                "@VPOS" : "1971",
+                "@CONTENT" : "la",
+                "@WC" : "0.225",
+                "@CC" : "78"
+              }, {
+                "@ID" : "Page2_S00067",
+                "@HEIGHT" : "116",
+                "@WIDTH" : "548",
+                "@HPOS" : "1561",
+                "@VPOS" : "1975",
+                "@CONTENT" : "Executoria,",
+                "@WC" : "0.641818166",
+                "@CC" : "400060562104"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "42",
+                "@HPOS" : "828",
+                "@VPOS" : "2009"
+              }, {
+                "@WIDTH" : "26",
+                "@HPOS" : "918",
+                "@VPOS" : "1975"
+              }, {
+                "@WIDTH" : "32",
+                "@HPOS" : "1032",
+                "@VPOS" : "2009"
+              }, {
+                "@WIDTH" : "40",
+                "@HPOS" : "1410",
+                "@VPOS" : "1969"
+              }, {
+                "@WIDTH" : "28",
+                "@HPOS" : "1532",
+                "@VPOS" : "1979"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00014",
+              "@HEIGHT" : "130",
+              "@WIDTH" : "1664",
+              "@HPOS" : "445",
+              "@VPOS" : "2113",
+              "String" : [ {
+                "@ID" : "Page2_S00068",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "218",
+                "@HPOS" : "445",
+                "@VPOS" : "2149",
+                "@CONTENT" : "pena",
+                "@WC" : "0.3625",
+                "@CC" : "100510"
+              }, {
+                "@ID" : "Page2_S00069",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "108",
+                "@HPOS" : "683",
+                "@VPOS" : "2113",
+                "@CONTENT" : "de",
+                "@WC" : "1",
+                "@CC" : "00"
+              }, {
+                "@ID" : "Page2_S00070",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "166",
+                "@HPOS" : "811",
+                "@VPOS" : "2149",
+                "@CONTENT" : "que",
+                "@WC" : "0.7866667",
+                "@CC" : "060"
+              }, {
+                "@ID" : "Page2_S00071",
+                "@HEIGHT" : "58",
+                "@WIDTH" : "118",
+                "@HPOS" : "1011",
+                "@VPOS" : "2149",
+                "@CONTENT" : "no",
+                "@WC" : "0.755",
+                "@CC" : "04"
+              }, {
+                "@ID" : "Page2_S00072",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "216",
+                "@HPOS" : "1167",
+                "@VPOS" : "2113",
+                "@CONTENT" : "mire",
+                "@WC" : "0.7375",
+                "@CC" : "0460"
+              }, {
+                "@ID" : "Page2_S00073",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "88",
+                "@HPOS" : "1405",
+                "@VPOS" : "2113",
+                "@CONTENT" : "ni",
+                "@WC" : "0.5",
+                "@CC" : "54"
+              }, {
+                "@ID" : "Page2_S00074",
+                "@HEIGHT" : "56",
+                "@WIDTH" : "112",
+                "@HPOS" : "1525",
+                "@VPOS" : "2149",
+                "@CONTENT" : "un",
+                "@WC" : "0.72",
+                "@CC" : "22"
+              }, {
+                "@ID" : "Page2_S00075",
+                "@HEIGHT" : "60",
+                "@WIDTH" : "450",
+                "@HPOS" : "1659",
+                "@VPOS" : "2147",
+                "@CONTENT" : "momento",
+                "@WC" : "0.6028572",
+                "@CC" : "7600157"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "18",
+                "@HPOS" : "664",
+                "@VPOS" : "2113"
+              }, {
+                "@WIDTH" : "18",
+                "@HPOS" : "792",
+                "@VPOS" : "2149"
+              }, {
+                "@WIDTH" : "32",
+                "@HPOS" : "978",
+                "@VPOS" : "2149"
+              }, {
+                "@WIDTH" : "36",
+                "@HPOS" : "1130",
+                "@VPOS" : "2151"
+              }, {
+                "@WIDTH" : "20",
+                "@HPOS" : "1384",
+                "@VPOS" : "2149"
+              }, {
+                "@WIDTH" : "30",
+                "@HPOS" : "1494",
+                "@VPOS" : "2113"
+              }, {
+                "@WIDTH" : "20",
+                "@HPOS" : "1638",
+                "@VPOS" : "2149"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00015",
+              "@HEIGHT" : "130",
+              "@WIDTH" : "1660",
+              "@HPOS" : "451",
+              "@VPOS" : "2253",
+              "String" : [ {
+                "@ID" : "Page2_S00076",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "80",
+                "@HPOS" : "451",
+                "@VPOS" : "2255",
+                "@CONTENT" : "al",
+                "@WC" : "0.555",
+                "@CC" : "71"
+              }, {
+                "@ID" : "Page2_S00077",
+                "@HEIGHT" : "98",
+                "@WIDTH" : "538",
+                "@HPOS" : "581",
+                "@VPOS" : "2253",
+                "@CONTENT" : "Confiílorio",
+                "@WC" : "0.69",
+                "@CC" : "01305640641"
+              }, {
+                "@ID" : "Page2_S00078",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "142",
+                "@HPOS" : "1195",
+                "@VPOS" : "2253",
+                "@CONTENT" : "del",
+                "@WC" : "1",
+                "@CC" : "000"
+              }, {
+                "@ID" : "Page2_S00079",
+                "@HEIGHT" : "128",
+                "@WIDTH" : "706",
+                "@HPOS" : "1405",
+                "@VPOS" : "2255",
+                "@CONTENT" : "Ayuntamiento.",
+                "@WC" : "0.5246154",
+                "@CC" : "2840790406574"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "48",
+                "@HPOS" : "532",
+                "@VPOS" : "2255"
+              }, {
+                "@WIDTH" : "74",
+                "@HPOS" : "1120",
+                "@VPOS" : "2253"
+              }, {
+                "@WIDTH" : "66",
+                "@HPOS" : "1338",
+                "@VPOS" : "2255"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00016",
+              "@HEIGHT" : "122",
+              "@WIDTH" : "1796",
+              "@HPOS" : "309",
+              "@VPOS" : "2391",
+              "String" : [ {
+                "@ID" : "Page2_S00080",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "166",
+                "@HPOS" : "309",
+                "@VPOS" : "2395",
+                "@CONTENT" : "Ale.",
+                "@WC" : "0.69",
+                "@CC" : "6014"
+              }, {
+                "@ID" : "Page2_S00081",
+                "@HEIGHT" : "90",
+                "@WIDTH" : "206",
+                "@HPOS" : "527",
+                "@VPOS" : "2397",
+                "@CONTENT" : "Bien",
+                "@WC" : "0.55",
+                "@CC" : "5416"
+              }, {
+                "@ID" : "Page2_S00082",
+                "@HEIGHT" : "90",
+                "@WIDTH" : "164",
+                "@HPOS" : "769",
+                "@VPOS" : "2399",
+                "@CONTENT" : "ella",
+                "@WC" : "0.6325",
+                "@CC" : "3019"
+              }, {
+                "@ID" : "Page2_S00083",
+                "@HEIGHT" : "44",
+                "@WIDTH" : "30",
+                "@HPOS" : "975",
+                "@VPOS" : "2469",
+                "@CONTENT" : ",",
+                "@WC" : "0.59",
+                "@CC" : "4"
+              }, {
+                "@ID" : "Page2_S00084",
+                "@HEIGHT" : "96",
+                "@WIDTH" : "204",
+                "@HPOS" : "1043",
+                "@VPOS" : "2391",
+                "@CONTENT" : "Brás",
+                "@WC" : "0.625",
+                "@CC" : "0472"
+              }, {
+                "@ID" : "Page2_S00085",
+                "@HEIGHT" : "44",
+                "@WIDTH" : "30",
+                "@HPOS" : "1281",
+                "@VPOS" : "2467",
+                "@CONTENT" : ",",
+                "@WC" : "0.55",
+                "@CC" : "4"
+              }, {
+                "@ID" : "Page2_S00086",
+                "@HEIGHT" : "96",
+                "@WIDTH" : "296",
+                "@HPOS" : "1371",
+                "@VPOS" : "2391",
+                "@CONTENT" : "dexale",
+                "@WC" : "1",
+                "@CC" : "000000"
+              }, {
+                "@ID" : "Page2_S00087",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "360",
+                "@HPOS" : "1745",
+                "@VPOS" : "2395",
+                "@CONTENT" : "clavado",
+                "@WC" : "0.524285734",
+                "@CC" : "601001007"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "50",
+                "@HPOS" : "476",
+                "@VPOS" : "2403"
+              }, {
+                "@WIDTH" : "34",
+                "@HPOS" : "734",
+                "@VPOS" : "2431"
+              }, {
+                "@WIDTH" : "40",
+                "@HPOS" : "934",
+                "@VPOS" : "2433"
+              }, {
+                "@WIDTH" : "36",
+                "@HPOS" : "1006",
+                "@VPOS" : "2403"
+              }, {
+                "@WIDTH" : "32",
+                "@HPOS" : "1248",
+                "@VPOS" : "2431"
+              }, {
+                "@WIDTH" : "58",
+                "@HPOS" : "1312",
+                "@VPOS" : "2391"
+              }, {
+                "@WIDTH" : "76",
+                "@HPOS" : "1668",
+                "@VPOS" : "2431"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00017",
+              "@HEIGHT" : "126",
+              "@WIDTH" : "1662",
+              "@HPOS" : "445",
+              "@VPOS" : "2533",
+              "String" : [ {
+                "@ID" : "Page2_S00088",
+                "@HEIGHT" : "58",
+                "@WIDTH" : "162",
+                "@HPOS" : "445",
+                "@VPOS" : "2569",
+                "@CONTENT" : "con",
+                "@WC" : "0.706666648",
+                "@CC" : "710"
+              }, {
+                "@ID" : "Page2_S00089",
+                "@HEIGHT" : "120",
+                "@WIDTH" : "282",
+                "@HPOS" : "639",
+                "@VPOS" : "2533",
+                "@CONTENT" : "clavo,",
+                "@WC" : "0.6166667",
+                "@CC" : "1010064"
+              }, {
+                "@ID" : "Page2_S00090",
+                "@HEIGHT" : "120",
+                "@WIDTH" : "284",
+                "@HPOS" : "953",
+                "@VPOS" : "2533",
+                "@CONTENT" : "oblea,",
+                "@WC" : "0.451666653",
+                "@CC" : "466194"
+              }, {
+                "@ID" : "Page2_S00091",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "56",
+                "@HPOS" : "1257",
+                "@VPOS" : "2533",
+                "@CONTENT" : "ó",
+                "@WC" : "0.31",
+                "@CC" : "6"
+              }, {
+                "@ID" : "Page2_S00092",
+                "@HEIGHT" : "80",
+                "@WIDTH" : "106",
+                "@HPOS" : "1349",
+                "@VPOS" : "2545",
+                "@CONTENT" : "có",
+                "@WC" : "0.685",
+                "@CC" : "23"
+              }, {
+                "@ID" : "Page2_S00093",
+                "@HEIGHT" : "90",
+                "@WIDTH" : "160",
+                "@HPOS" : "1485",
+                "@VPOS" : "2569",
+                "@CONTENT" : "pan",
+                "@WC" : "0.6666667",
+                "@CC" : "0100"
+              }, {
+                "@ID" : "Page2_S00094",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "420",
+                "@HPOS" : "1687",
+                "@VPOS" : "2533",
+                "@CONTENT" : "mafcado.",
+                "@WC" : "0.52375",
+                "@CC" : "6000101073"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "30",
+                "@HPOS" : "608",
+                "@VPOS" : "2569"
+              }, {
+                "@WIDTH" : "30",
+                "@HPOS" : "922",
+                "@VPOS" : "2571"
+              }, {
+                "@WIDTH" : "18",
+                "@HPOS" : "1238",
+                "@VPOS" : "2533"
+              }, {
+                "@WIDTH" : "34",
+                "@HPOS" : "1314",
+                "@VPOS" : "2533"
+              }, {
+                "@WIDTH" : "28",
+                "@HPOS" : "1456",
+                "@VPOS" : "2545"
+              }, {
+                "@WIDTH" : "40",
+                "@HPOS" : "1646",
+                "@VPOS" : "2569"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00018",
+              "@HEIGHT" : "132",
+              "@WIDTH" : "1656",
+              "@HPOS" : "447",
+              "@VPOS" : "2669",
+              "String" : [ {
+                "@ID" : "Page2_S00095",
+                "@HEIGHT" : "126",
+                "@WIDTH" : "358",
+                "@HPOS" : "447",
+                "@VPOS" : "2673",
+                "@CONTENT" : "Válgate",
+                "@WC" : "0.568571448",
+                "@CC" : "00651061"
+              }, {
+                "@ID" : "Page2_S00096",
+                "@HEIGHT" : "96",
+                "@WIDTH" : "378",
+                "@HPOS" : "825",
+                "@VPOS" : "2669",
+                "@CONTENT" : "Bercebú",
+                "@WC" : "0.62",
+                "@CC" : "3065146"
+              }, {
+                "@ID" : "Page2_S00097",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "160",
+                "@HPOS" : "1225",
+                "@VPOS" : "2709",
+                "@CONTENT" : "por",
+                "@WC" : "0.696666658",
+                "@CC" : "036"
+              }, {
+                "@ID" : "Page2_S00098",
+                "@HEIGHT" : "60",
+                "@WIDTH" : "240",
+                "@HPOS" : "1419",
+                "@VPOS" : "2705",
+                "@CONTENT" : "tanto",
+                "@WC" : "0.382",
+                "@CC" : "610707"
+              }, {
+                "@ID" : "Page2_S00099",
+                "@HEIGHT" : "132",
+                "@WIDTH" : "428",
+                "@HPOS" : "1675",
+                "@VPOS" : "2669",
+                "@CONTENT" : "Hidalgo,",
+                "@WC" : "0.495",
+                "@CC" : "6001021074"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "18",
+                "@HPOS" : "806",
+                "@VPOS" : "2681"
+              }, {
+                "@WIDTH" : "20",
+                "@HPOS" : "1204",
+                "@VPOS" : "2669"
+              }, {
+                "@WIDTH" : "32",
+                "@HPOS" : "1386",
+                "@VPOS" : "2707"
+              }, {
+                "@WIDTH" : "14",
+                "@HPOS" : "1660",
+                "@VPOS" : "2679"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00019",
+              "@HEIGHT" : "128",
+              "@WIDTH" : "1658",
+              "@HPOS" : "451",
+              "@VPOS" : "2813",
+              "String" : [ {
+                "@ID" : "Page2_S00100",
+                "@HEIGHT" : "94",
+                "@WIDTH" : "262",
+                "@HPOS" : "451",
+                "@VPOS" : "2813",
+                "@CONTENT" : "todos",
+                "@WC" : "0.514",
+                "@CC" : "410044"
+              }, {
+                "@ID" : "Page2_S00101",
+                "@HEIGHT" : "128",
+                "@WIDTH" : "758",
+                "@HPOS" : "743",
+                "@VPOS" : "2813",
+                "@CONTENT" : "largos,flacuchos",
+                "@WC" : "0.601875"
+              }, {
+                "@ID" : "Page2_S00102",
+                "@HEIGHT" : "58",
+                "@WIDTH" : "262",
+                "@HPOS" : "1523",
+                "@VPOS" : "2849",
+                "@CONTENT" : "como",
+                "@WC" : "0.5575",
+                "@CC" : "0575"
+              }, {
+                "@ID" : "Page2_S00103",
+                "@HEIGHT" : "126",
+                "@WIDTH" : "292",
+                "@HPOS" : "1817",
+                "@VPOS" : "2815",
+                "@CONTENT" : "galgo.",
+                "@WC" : "0.308333337",
+                "@CC" : "61021074"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "28",
+                "@HPOS" : "714",
+                "@VPOS" : "2815"
+              }, {
+                "@WIDTH" : "20",
+                "@HPOS" : "1502",
+                "@VPOS" : "2849"
+              }, {
+                "@WIDTH" : "30",
+                "@HPOS" : "1786",
+                "@VPOS" : "2851"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00020",
+              "@HEIGHT" : "130",
+              "@WIDTH" : "1658",
+              "@HPOS" : "447",
+              "@VPOS" : "2951",
+              "String" : [ {
+                "@ID" : "Page2_S00104",
+                "@HEIGHT" : "120",
+                "@WIDTH" : "262",
+                "@HPOS" : "447",
+                "@VPOS" : "2953",
+                "@CONTENT" : "Mira,",
+                "@WC" : "0.496",
+                "@CC" : "43394"
+              }, {
+                "@ID" : "Page2_S00105",
+                "@HEIGHT" : "118",
+                "@WIDTH" : "240",
+                "@HPOS" : "743",
+                "@VPOS" : "2955",
+                "@CONTENT" : "Brás,",
+                "@WC" : "0.526",
+                "@CC" : "37722"
+              }, {
+                "@ID" : "Page2_S00106",
+                "@HEIGHT" : "90",
+                "@WIDTH" : "56",
+                "@HPOS" : "1001",
+                "@VPOS" : "2991",
+                "@CONTENT" : "q",
+                "@WC" : "0",
+                "@CC" : "10"
+              }, {
+                "@ID" : "Page2_S00107",
+                "@HEIGHT" : "60",
+                "@WIDTH" : "86",
+                "@HPOS" : "1075",
+                "@VPOS" : "2987",
+                "@CONTENT" : "te",
+                "@WC" : "0.6",
+                "@CC" : "52"
+              }, {
+                "@ID" : "Page2_S00108",
+                "@HEIGHT" : "126",
+                "@WIDTH" : "214",
+                "@HPOS" : "1193",
+                "@VPOS" : "2951",
+                "@CONTENT" : "digo",
+                "@WC" : "0.9475",
+                "@CC" : "0200"
+              }, {
+                "@ID" : "Page2_S00109",
+                "@HEIGHT" : "64",
+                "@WIDTH" : "266",
+                "@HPOS" : "1427",
+                "@VPOS" : "2989",
+                "@CONTENT" : "como",
+                "@WC" : "0.885",
+                "@CC" : "0004"
+              }, {
+                "@ID" : "Page2_S00110",
+                "@HEIGHT" : "120",
+                "@WIDTH" : "388",
+                "@HPOS" : "1717",
+                "@VPOS" : "2951",
+                "@CONTENT" : "Alcalde,",
+                "@WC" : "0.65125",
+                "@CC" : "057001004"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "32",
+                "@HPOS" : "710",
+                "@VPOS" : "2961"
+              }, {
+                "@WIDTH" : "16",
+                "@HPOS" : "984",
+                "@VPOS" : "2991"
+              }, {
+                "@WIDTH" : "16",
+                "@HPOS" : "1058",
+                "@VPOS" : "2987"
+              }, {
+                "@WIDTH" : "30",
+                "@HPOS" : "1162",
+                "@VPOS" : "2951"
+              }, {
+                "@WIDTH" : "18",
+                "@HPOS" : "1408",
+                "@VPOS" : "2991"
+              }, {
+                "@WIDTH" : "22",
+                "@HPOS" : "1694",
+                "@VPOS" : "2965"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00021",
+              "@HEIGHT" : "136",
+              "@WIDTH" : "1652",
+              "@HPOS" : "449",
+              "@VPOS" : "3087",
+              "String" : [ {
+                "@ID" : "Page2_S00111",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "168",
+                "@HPOS" : "449",
+                "@VPOS" : "3131",
+                "@CONTENT" : "que",
+                "@WC" : "0.543333352",
+                "@CC" : "850"
+              }, {
+                "@ID" : "Page2_S00112",
+                "@HEIGHT" : "56",
+                "@WIDTH" : "90",
+                "@HPOS" : "689",
+                "@VPOS" : "3131",
+                "@CONTENT" : "tu",
+                "@WC" : "0.35",
+                "@CC" : "75"
+              }, {
+                "@ID" : "Page2_S00113",
+                "@HEIGHT" : "124",
+                "@WIDTH" : "330",
+                "@HPOS" : "855",
+                "@VPOS" : "3097",
+                "@CONTENT" : "trabajo",
+                "@WC" : "0.2557143",
+                "@CC" : "661051076"
+              }, {
+                "@ID" : "Page2_S00114",
+                "@HEIGHT" : "56",
+                "@WIDTH" : "114",
+                "@HPOS" : "1229",
+                "@VPOS" : "3131",
+                "@CONTENT" : "no",
+                "@WC" : "0.43",
+                "@CC" : "64"
+              }, {
+                "@ID" : "Page2_S00115",
+                "@HEIGHT" : "100",
+                "@WIDTH" : "178",
+                "@HPOS" : "1413",
+                "@VPOS" : "3087",
+                "@CONTENT" : "ferá",
+                "@WC" : "0.655",
+                "@CC" : "0067"
+              }, {
+                "@ID" : "Page2_S00116",
+                "@HEIGHT" : "96",
+                "@WIDTH" : "110",
+                "@HPOS" : "1665",
+                "@VPOS" : "3093",
+                "@CONTENT" : "de",
+                "@WC" : "1",
+                "@CC" : "00"
+              }, {
+                "@ID" : "Page2_S00117",
+                "@HEIGHT" : "116",
+                "@WIDTH" : "284",
+                "@HPOS" : "1817",
+                "@VPOS" : "3093",
+                "@CONTENT" : "valde,",
+                "@WC" : "0.6766667",
+                "@CC" : "0104004"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "70",
+                "@HPOS" : "618",
+                "@VPOS" : "3131"
+              }, {
+                "@WIDTH" : "74",
+                "@HPOS" : "780",
+                "@VPOS" : "3129"
+              }, {
+                "@WIDTH" : "42",
+                "@HPOS" : "1186",
+                "@VPOS" : "3131"
+              }, {
+                "@WIDTH" : "68",
+                "@HPOS" : "1344",
+                "@VPOS" : "3095"
+              }, {
+                "@WIDTH" : "72",
+                "@HPOS" : "1592",
+                "@VPOS" : "3087"
+              }, {
+                "@WIDTH" : "40",
+                "@HPOS" : "1776",
+                "@VPOS" : "3131"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00022",
+              "@HEIGHT" : "134",
+              "@WIDTH" : "1666",
+              "@HPOS" : "451",
+              "@VPOS" : "3231",
+              "String" : [ {
+                "@ID" : "Page2_S00118",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "168",
+                "@HPOS" : "451",
+                "@VPOS" : "3273",
+                "@CONTENT" : "que",
+                "@WC" : "0.663333356",
+                "@CC" : "324"
+              }, {
+                "@ID" : "Page2_S00119",
+                "@HEIGHT" : "124",
+                "@WIDTH" : "324",
+                "@HPOS" : "659",
+                "@VPOS" : "3237",
+                "@CONTENT" : "mires,",
+                "@WC" : "0.56"
+              }, {
+                "@ID" : "Page2_S00120",
+                "@HEIGHT" : "92",
+                "@WIDTH" : "54",
+                "@HPOS" : "1021",
+                "@VPOS" : "3273",
+                "@CONTENT" : "y",
+                "@WC" : "1",
+                "@CC" : "0"
+              }, {
+                "@ID" : "Page2_S00121",
+                "@HEIGHT" : "98",
+                "@WIDTH" : "356",
+                "@HPOS" : "1107",
+                "@VPOS" : "3233",
+                "@CONTENT" : "remires",
+                "@WC" : "0.481428564",
+                "@CC" : "7293714"
+              }, {
+                "@ID" : "Page2_S00122",
+                "@HEIGHT" : "66",
+                "@WIDTH" : "166",
+                "@HPOS" : "1505",
+                "@VPOS" : "3273",
+                "@CONTENT" : "con",
+                "@WC" : "0.46",
+                "@CC" : "177"
+              }, {
+                "@ID" : "Page2_S00123",
+                "@HEIGHT" : "134",
+                "@WIDTH" : "412",
+                "@HPOS" : "1705",
+                "@VPOS" : "3231",
+                "@CONTENT" : "cuydado",
+                "@WC" : "0.33",
+                "@CC" : "87909101"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "38",
+                "@HPOS" : "620",
+                "@VPOS" : "3273"
+              }, {
+                "@WIDTH" : "36",
+                "@HPOS" : "984",
+                "@VPOS" : "3273"
+              }, {
+                "@WIDTH" : "30",
+                "@HPOS" : "1076",
+                "@VPOS" : "3273"
+              }, {
+                "@WIDTH" : "40",
+                "@HPOS" : "1464",
+                "@VPOS" : "3271"
+              }, {
+                "@WIDTH" : "32",
+                "@HPOS" : "1672",
+                "@VPOS" : "3273"
+              } ]
+            }, {
+              "@ID" : "Page2_TL00023",
+              "@HEIGHT" : "95",
+              "@WIDTH" : "725",
+              "@HPOS" : "1290",
+              "@VPOS" : "3370",
+              "String" : [ {
+                "@ID" : "Page2_S00124",
+                "@HEIGHT" : "76",
+                "@WIDTH" : "125",
+                "@HPOS" : "1290",
+                "@VPOS" : "3372",
+                "@CONTENT" : "Kz",
+                "@WC" : "0.01",
+                "@CC" : "910"
+              }, {
+                "@ID" : "Page2_S00125",
+                "@HEIGHT" : "7",
+                "@WIDTH" : "6",
+                "@HPOS" : "1909",
+                "@VPOS" : "3458",
+                "@CONTENT" : ".",
+                "@WC" : "0.54",
+                "@CC" : "4"
+              }, {
+                "@ID" : "Page2_S00126",
+                "@HEIGHT" : "68",
+                "@WIDTH" : "68",
+                "@HPOS" : "1947",
+                "@VPOS" : "3370",
+                "@CONTENT" : "el",
+                "@WC" : "0.2",
+                "@CC" : "87"
+              } ],
+              "SP" : [ {
+                "@WIDTH" : "492",
+                "@HPOS" : "1416",
+                "@VPOS" : "3399"
+              }, {
+                "@WIDTH" : "30",
+                "@HPOS" : "1916",
+                "@VPOS" : "3393"
+              } ]
+            } ]
+          }
+        }
+      }
+    }
+  }
+}
