@@ -1,0 +1,13 @@
+{
+  "id" : "https://keolson-uc.github.io/PedroCucho/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in keolson-uc/PedroCucho project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://keolson-uc.github.io/PedroCucho/manifests/pedro.json",
+    "label" : "\nEntremés el alcalde Pedro Cucho."
+  } ]
+}
