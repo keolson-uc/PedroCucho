@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://keolson-uc.github.io/PedroCucho/manifests/pedro.json",
     "label" : "\nEntremés el alcalde Pedro Cucho."
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://keolson-uc.github.io/PedroCucho/manifests/pedro_1.json",
+    "label" : "\nEntremés el alcalde Pedro Cucho."
   } ]
 }
